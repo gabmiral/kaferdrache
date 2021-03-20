@@ -13,5 +13,5 @@ null,
 {"id":11,"expanded":false,"name":"Inn 1F","order":3,"parentId":2,"scrollX":921.3333333333334,"scrollY":621.3333333333334},
 {"id":12,"expanded":false,"name":"Armor Shop","order":4,"parentId":2,"scrollX":921.3333333333334,"scrollY":621.3333333333334},
 {"id":13,"expanded":false,"name":"CarrefourInfested","order":8,"parentId":5,"scrollX":921.3333333333334,"scrollY":621.3333333333334},
-{"id":14,"expanded":false,"name":"Abandoned Grassland Temple","order":14,"parentId":4,"scrollX":893.4,"scrollY":759.6}
+{"id":14,"expanded":false,"name":"Abandoned Grassland Temple","order":14,"parentId":4,"scrollX":883.8,"scrollY":763.8}
 ]
